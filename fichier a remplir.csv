@@ -1,0 +1,9 @@
+Machine;Puissance Active (KVA) ;Facteur de puissance ;Quantite
+SCHUNK;1000;0.85;10
+KOMAX;1995;0.81;25
+RRS;1445;0.8;4
+TURRA;1000;0.83;5
+test;520;0.95;1
+Corrosel;840;0,75;3
+Dunudeuse;2000;0,9;8
+Twisteuse;1800;0,59;3
